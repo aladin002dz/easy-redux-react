@@ -14,12 +14,14 @@ class MyComponent extends Component {
   }
 }
 
+//Map app state to component props
 function mapStateToProps(state) {
   return {
     counter: state.counter
   }
 }
 
+//The Dispatcher
 function mapDispatchToProps(dispatch) {
   return {
     increaseCounter : () => dispatch({type: 'INCREASE_COUNTER'}),

@@ -28,6 +28,7 @@ class App extends Component {
 
   render() {
     return (
+      //The app state provider
       <Provider store={store}>
         <MyComponent/>
       </Provider>
