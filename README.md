@@ -1,5 +1,6 @@
 # Easy Redux React
-Minimal Redux Code, with React. Code made from this [article](https://daveceddia.com/how-does-redux-work/).
+Minimal Redux Code, with React. Code made from this [article](https://daveceddia.com/how-does-redux-work/).  
+Check the result [here](https://easy-redux-react-822124.netlify.com/)
 
   
 ## `src/index.js`  
