@@ -1,5 +1,6 @@
-# easy-redux-react
-Minimal Redux Code, with React.  
+# Easy Redux React
+Minimal Redux Code, with React. Code made from this [article](https://daveceddia.com/how-does-redux-work/).
+
   
 ## `src/index.js`  
   
